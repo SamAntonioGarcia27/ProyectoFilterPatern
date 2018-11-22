@@ -13,4 +13,5 @@ package ejecutor;
 public class ejecutor {
 
     String x = "Proyecto";
+     String y = "Hola";
 }
